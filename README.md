@@ -7,7 +7,7 @@
 - 💬 Ask me about baking and dancing
 - 📫 How to reach me: renynet7@gmail.com
 - 😄 Pronouns: she
-- ⚡ Fun fact: dancing
+- ⚡ Fun fact: 
 <!--
 **RenBaj/RenBaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
